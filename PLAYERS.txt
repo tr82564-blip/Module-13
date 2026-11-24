@@ -1,0 +1,10 @@
+Lopez,0.267
+Garcia,0.300
+Martinez,0.285
+Rivera,0.312
+Torres,0.278
+Perez,0.295
+Ramirez,0.320
+Gomez,0.254
+Diaz,0.289
+Castro,0.301
